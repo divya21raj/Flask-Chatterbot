@@ -1,0 +1,15 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+chatterbot = ">=1.0.0"
+chatterbot-corpus = ">=1.2.0"
+Flask = ">=1.0.0"
+SQLAlchemy = ">=1.2"
+
+[requires]
+python_version = "3.7"
